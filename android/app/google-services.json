@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922521805800",
+    "project_id": "vel-maaral",
+    "storage_bucket": "vel-maaral.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922521805800:android:34118d2cd9b47e8f37fa5d",
+        "android_client_info": {
+          "package_name": "com.rajarajan.vel_maaral"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIBA6_Y0V8FCXss9DcprFIi9GBe6-w-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
